@@ -1,0 +1,12 @@
+body.login-page, header.main-header{
+    background-image: url('../dist/img/bg.jpg') !important;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.skin-blue .main-header .logo{
+    background-color: none !important;
+}
+.skin-blue .main-header .navbar{
+    background-color: none !important;
+}
